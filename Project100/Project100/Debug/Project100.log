@@ -1,0 +1,26 @@
+﻿  Play.cpp
+c:\users\rnal9\source\repos\project100\project100\mapdraw.h(15): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\rnal9\source\repos\project100\project100\play.cpp(37): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\source\repos\project100\project100\play.cpp(61): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\source\repos\project100\project100\play.cpp(62): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\source\repos\project100\project100\play.cpp(63): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\source\repos\project100\project100\play.cpp(66): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\source\repos\project100\project100\play.cpp(67): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\source\repos\project100\project100\play.cpp(68): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\source\repos\project100\project100\play.cpp(307): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\source\repos\project100\project100\play.cpp(311): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\source\repos\project100\project100\play.cpp(312): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\source\repos\project100\project100\play.cpp(318): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\source\repos\project100\project100\play.cpp(302): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
+c:\users\rnal9\source\repos\project100\project100\play.cpp(336): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\source\repos\project100\project100\play.cpp(375): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\source\repos\project100\project100\play.cpp(416): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\source\repos\project100\project100\play.cpp(432): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\source\repos\project100\project100\play.cpp(433): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\source\repos\project100\project100\play.cpp(443): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\source\repos\project100\project100\play.cpp(452): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\source\repos\project100\project100\play.cpp(469): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\source\repos\project100\project100\play.cpp(471): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\source\repos\project100\project100\play.cpp(478): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rnal9\source\repos\project100\project100\play.cpp(492): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Project100.vcxproj -> C:\Users\rnal9\source\repos\Project100\Debug\Project100.exe
